@@ -1,0 +1,10 @@
+<RCC>
+	<qresource>
+		<file>download.png</file>
+		<file>download2.png</file>
+		<file>pause.png</file>
+		<file>pause2.png</file>
+		<file>resume.png</file>
+		<file>stop.png</file>
+	</qresource>
+</RCC>
