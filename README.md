@@ -8,5 +8,5 @@ All the codes in Implement.py is written with comments where needed<br>
 Download feature has not been build.I tried building download feature using seedr.cc website and splinter
 library but it has google captcha installed.
 
-Further development has been stopped till I find the faourable condition.
+Further development has been stopped till I find the favourable condition.
 
