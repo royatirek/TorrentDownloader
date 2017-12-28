@@ -10,7 +10,7 @@ library but it has google captcha installed.
 
 Further development has been stopped till I find the favourable condition.
 
-NOTICE
+<b>NOTICE<b><br>
 It has been build to download freeware from torrent and keep the amazing concept of torrent going.<br>
 I don't take responsibility if it is used in a way not recommended
 
