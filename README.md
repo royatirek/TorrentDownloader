@@ -12,5 +12,6 @@ Further development has been stopped till I find the favourable condition.
 
 <b>NOTICE<b><br>
 It has been build to download freeware from torrent and keep the amazing concept of torrent going.<br>
+I encourage the users to build it in a way that is recommended.<br>
 I don't take responsibility if it is used in a way not recommended
 
