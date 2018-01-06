@@ -6,7 +6,7 @@ Searching over torrent through this app has been implemented.
 The content is being scrapped from https://zooqle.com<br>
 All the codes in Implement.py is written with comments where needed<br>
 
-Download feature has not been build.You can use your own server or third part offerings to build download feature completely.
+Download feature has not been build.You can use your own server or third party offerings to build download feature completely.
 
 Further development has been stopped till I find the favourable condition.
 
